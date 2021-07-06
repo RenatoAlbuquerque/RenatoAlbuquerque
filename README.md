@@ -4,9 +4,7 @@
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/renato-alb-arq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/renato-alb-arq" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/renalbuquerq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/renalbuquerq/" height="30" width="40" /></a>
-
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6581" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/renalbuquerq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/renalbuquerq/" height="30" width="40" /></a><a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6581" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Stacks:</h3>
