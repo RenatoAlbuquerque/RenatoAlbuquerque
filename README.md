@@ -4,7 +4,7 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/renato-albuquerque-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/renato-alb-arq" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renato-albuquerque-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/renato-alb-arq" height="30" width="40" /></a>
 <a href="https://www.instagram.com/renalbuquerq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/renalbuquerq/" height="30" width="40" /></a><a href="https://discord.gg/#9694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9694" height="30" width="40" /></a>
 </p>
 
