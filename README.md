@@ -1,6 +1,6 @@
 <h1 aling="center">Olá! Me chamo Renato Albuquerque</h3>
 
-<h2 aling="center">Sou formado em Arquitetura e Urbanismo e atualmente sou aluno Front-End do START Brasil by Accenture.</h2> 
+<h2 aling="center">Sou Desenevolvedor Front-End e aluno do START Brasil by Accenture. <br> Também sou formado em Arquitetura e Urbanismo </h2> 
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
