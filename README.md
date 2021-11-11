@@ -1,6 +1,6 @@
-<h1 aling="center">Olá! Me chamo Renato Albuquerque</h3>
+<h1 aling="center">Olá! Me chamo Renato Albuquerque</h1>
 
-<h2 aling="center">Sou Desenvolvedor Front-End e aluno do START Brasil.  </h2> 
+<h2 aling="center">Sou Desenvolvedor Front-End e aluno do START Brasil. </h2>  
 
 <h3 align="left">Redes Sociais e Contato:</h3>
 <p align="left">
