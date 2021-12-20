@@ -1,6 +1,6 @@
 <h1 aling="center">Olá! Me chamo Renato Albuquerque</h1>
 
-<h2 aling="center">Sou Desenvolvedor Front-End e aluno do START Brasil. </h2>  
+<h2 aling="center">Ex-aluno Start Brasil - Powered by Accenture </h2>  
 <h3 align="left">Bem vindo ao meu Perfil Estudantil!</h3>
 <h4 lign="left"><a href="https://github.com/RenatoAlbuquerqueDev" target="_blank">Perfil Portifólio</a></h4>
 
