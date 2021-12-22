@@ -1,10 +1,10 @@
-<h1 aling="center">Olá! Me chamo Renato Albuquerque</h1>
+<h2 aling="center">Olá! Me chamo Renato Albuquerque</h2>
 
-<h2 aling="center">Ex-aluno Start Brasil - Powered by Accenture </h2>  
-<h3 align="left">Bem vindo ao meu Perfil Estudantil!</h3>
-<h4 lign="left"><a href="https://github.com/RenatoAlbuquerqueDev" target="_blank">Perfil Portifólio</a></h4>
+<h3 aling="center">Ex-aluno Start Brasil - Powered by Accenture </h3>  
+<h4 align="left">Bem vindo ao meu Perfil Estudantil!</h4>
+<h5 lign="left"><a href="https://github.com/RenatoAlbuquerqueDev" target="_blank">Perfil Portifólio</a></h5>
 
-<h3 align="left">Redes Sociais e Contato:</h3>
+<h4 align="left">Redes Sociais e Contato:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/renato-albuquerque-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/renato-alb-arq" height="30" width="40" /></a>
 <a href="https://www.instagram.com/renalbuquerq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/renalbuquerq/" height="30" width="40" /></a>
@@ -14,23 +14,42 @@
 </p>
 
 <h3 align="left">Stacks:</h3>
-<p align="left">
-  <img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="bootstrap" height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img alt="sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img alt="JavaScript" height="40 width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
-  <img alt="nodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="npm" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img alt="typescript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> 
+<p align="center">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="3" height="40" />
   
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
+  <img width="3" height="40" />
+  
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />                                                                                                      
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img width="3" height="40" />
 
-  <img alt="photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img alt="figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-                                                                                                                                        
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img width="3" height="40" />
+
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <img width="3" height="40" />
+  
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="3" height="40" />
+
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
+  
+<p align="center">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
+                                                                                                                                        
+
                                                                                                                                         
 
 
