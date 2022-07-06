@@ -2,8 +2,7 @@
 
 ### Olá 👋, Bem vindo ao meu Perfil Estudantil!!
 
-#### Perfil Portifólio ===> <a href="https://github.com/RenatoAlbuquerqueDev">**AQUI**</a>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Renato Albuquerque&color=f8efd4&style=for-the-badge&logo=GitHub">
+
 
 [![Linkedin: RENATO_ALBUQUERQUE_DEV](https://img.shields.io/badge/-RENATO_ALBUQUERQUE_DEV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/renato-albuquerque-dev)](https://br.linkedin.com/in/renato-albuquerque-dev)
 [![Gmail Badge](https://img.shields.io/badge/-renatoabreukz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatoabreukz@gmail.com)](mailto:renatoabreukz@gmail.com)
@@ -16,6 +15,7 @@
 
 - 💻 &nbsp; Ex-aluno do **Start Brasil - Powered by Accenture -  Turma Frontend - React**.
 - 🎓 &nbsp; Graduando em **Análise e Desenvolvimento de Sistemas**.
+- 👨‍💻 &nbsp; Analista e Desenvolvedor de Sistemas na **Squadra Digital**.
 
 </p>
 
