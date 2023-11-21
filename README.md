@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Ex-aluno do **Start Brasil - Powered by Accenture -  Turma Frontend - React**.
 - 🎓 &nbsp; Graduando em **Análise e Desenvolvimento de Sistemas**.
-- 👨‍💻 &nbsp; Desenvolvedor Front End Pleno na **GDS Tecnologia**.
+- 👨‍💻 &nbsp; Desenvolvedor Front End Pleno na **F12 e OPA Games**.
 
 </p>
 
