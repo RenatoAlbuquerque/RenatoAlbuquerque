@@ -13,61 +13,121 @@
 
 <h3> 👨‍💻 &nbsp;Sobre mim </h3> 
 
-- 💻 &nbsp; Ex-aluno do **Start Brasil - Powered by Accenture -  Turma Frontend - React**.
-- 🎓 &nbsp; Graduando em **Análise e Desenvolvimento de Sistemas**.
-- 👨‍💻 &nbsp; Desenvolvedor Front End Pleno na **F12 e OPA Games**.
-
+- 🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas**.
+- 👨‍💻 &nbsp; Desenvolvedor Full Stack na **F12 e OPA Games**.
+- 💻 &nbsp; Possuo 3 anos de experiência no desenvolvimento de software, atuando tanto no front-end quanto no back-end, ambos utilizando Python, Javascript e Typescript.
 </p>
-
 
 <hr>
 
-<h3> :rocket: &nbsp;Minhas Stacks </h3>
+<h3> 🚀 Principais Stacks </h3>
 
-**Frontend**
-
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
-
-
-<p align='right'>
-
-**Backend**
-
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></code>
-
+<h4>Linguagens</h4>
+<p>
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </p>
+          
+<h4>Frontend</h4>
 
+<table text-align="center">
+    <tr>
+    <th>Frameworks</th>
+    <th>Estilização</th>
+    <th>Testes</th>
+    <th>Outros</th>
+    </tr>
+    <tr>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+    </td>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+    <img height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    </td>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+    </td>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />
+    </td>
+    </tr>
+</table>
 
-**Banco de Dados**
+<h4>Backend</h4>
 
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"></code>
+<table text-align="center">
+    <tr>
+    <th>Frameworks</th>
+    <th>ORM</th>
+    <th>Testes e documentação</th>
+    </tr>
+    <tr>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+    </td>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+    </td>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"  />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+    </td>
+    </tr>
+</table>
 
-**DevOps**
+<h4>Banco de Dados</h4>
 
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"></code>
+<table text-align="center">
+    <tr>
+    <th>Relacionais</th>
+    <th>Não relacionais</th>
+    </tr>
+    <tr>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    </td>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+    </td>
+    </tr>
+</table>
 
+<h4>DevOps, Ferramentas e Utilidades</h4>
 
-**Ferramentas e Utilidades**
-
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-                         
-</p>
+<table text-align="center">
+    <tr>
+    <th>Devops</th>
+    <th>Ferramentas</th>
+    </tr>
+    <tr>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+    </td>
+    <td>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"></code>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+    </td>
+    </tr>
+</table>
