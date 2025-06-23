@@ -15,6 +15,6 @@
 
 - 🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas**.
 - 👨‍💻 &nbsp; Desenvolvedor Full Stack .Net na **Squadra Digital**.
-- 💻 &nbsp; Possuo 3 anos de experiência no desenvolvimento de software, atuando com Python, C#, Javascript e Typescript.
+- 💻 &nbsp; Possuo anos de experiência no desenvolvimento de software, atuando com Python, C#, Javascript e Typescript.
 </p>
 
