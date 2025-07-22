@@ -1,20 +1,61 @@
-<img align='right' src="https://github-readme-stats-six-chi-74.vercel.app/api/top-langs/?username=RenatoAlbuquerque&layout=compact&langs_count=7&theme=midnight-purple"/>
+<h2 align="left">Olá 👋! Me chamo Renato, seja bem-vindo ao meu perfil.</h2>
 
-### Olá 👋, Bem vindo ao meu Perfil!!
+###
 
+<h5 align="left">🎓 Sou Graduado em Análise e Desenvolvimento de Sistema.<br>🛠️ Posso atuar como desenvolvedor Front-end, Back-end ou Fullstack Web.<br>👨‍💻 No front posso atuar com diversos frameworks como React, Next e Vite e diversas bibliotecas de estilização como MUI, Tailwind, Chakra, Shadcn entre outras.<br>🖥️ No back posso atua com .Net (Framework ou core) e Node (Express e Adonis)<br>📑 Tenho proficiência desenvolver, documentar e extrair relatório de aplicações e testes tanto de unidade quanto E2E com Jest, Cypress, Swagger, Storybook, Redoc, SonarQube, Azure Devops.</h5>
 
+###
 
-[![Linkedin: RENATO_ALBUQUERQUE_DEV](https://img.shields.io/badge/-RENATO_ALBUQUERQUE_DEV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/renato-albuquerque-dev)](https://br.linkedin.com/in/renato-albuquerque-dev)
-[![Gmail Badge](https://img.shields.io/badge/-renatoabreukz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatoabreukz@gmail.com)](mailto:renatoabreukz@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats-six-chi-74.vercel.app/api?username=RenatoAlbuquerque&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-six-chi-74.vercel.app/api/top-langs?username=RenatoAlbuquerque&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-#### Me chamo Renato Albuquerque  e sou **Desenvolvedor Fullstack Web**!!
+###
 
-<p>
+<a href="https://portfolio-renato-albuquerque.vercel.app" target="_blank">
+<img align="right" height="123" src="https://i.ibb.co/XZ8Gw3fv/portfolio.png"  />
+</a>
 
-<h3> 👨‍💻 &nbsp;Sobre mim </h3> 
+###
 
-- 🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas**.
-- 👨‍💻 &nbsp; Desenvolvedor Full Stack .Net na **Squadra Digital**.
-- 💻 &nbsp; Possuo anos de experiência no desenvolvimento de software, atuando com Python, C#, Javascript e Typescript.
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+</div>
 
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/renatoalbuquerque._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/nezumo_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/renato-albuquerque-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5581985593056" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+<div align="right">
+</br>
+<p>Acesse meu portólio</p>
+</div>
