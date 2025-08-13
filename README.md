@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎓 Sou Graduado em Análise e Desenvolvimento de Sistema.<br>🛠️ Posso atuar como desenvolvedor Front-end, Back-end ou Fullstack Web.<br>👨‍💻 No front posso atuar com diversos frameworks como React, Next e Vite e diversas bibliotecas de estilização como MUI, Tailwind, Chakra, Shadcn entre outras.<br>🖥️ No back posso atua com .Net (Framework ou core) e Node (Express e Adonis)<br>📑 Tenho proficiência para desenvolver, documentar e extrair relatório de aplicações e testes tanto de unidade quanto E2E com Jest, Cypress, Swagger, Storybook, Redoc, SonarQube, Azure Devops.</h5>
+<h4 align="left">🎓 Sou Graduado em Análise e Desenvolvimento de Sistema.<br><br>🛠️ Posso atuar como desenvolvedor Front-end, Back-end ou Fullstack Web.<br><br>👨‍💻 No front posso atuar com diversos frameworks como React, Next e Vite e diversas bibliotecas de estilização como MUI, Tailwind, Chakra, Shadcn entre outras.<br><br>🖥️ No back posso atua com .Net (Framework ou core) e Node (Express e Adonis)<br><br>📑 Tenho proficiência para desenvolver, implementar, documentar e extrair relatório de aplicações e testes tanto de unidade quanto E2E com Jest, Cypress, Swagger, Storybook, Redoc, SonarQube, Azure Devops.</h5>
 
 ###
 
