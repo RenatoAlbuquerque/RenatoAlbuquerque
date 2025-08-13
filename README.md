@@ -2,14 +2,7 @@
 
 ###
 
-<h5 align="left">🎓 Sou Graduado em Análise e Desenvolvimento de Sistema.<br>🛠️ Posso atuar como desenvolvedor Front-end, Back-end ou Fullstack Web.<br>👨‍💻 No front posso atuar com diversos frameworks como React, Next e Vite e diversas bibliotecas de estilização como MUI, Tailwind, Chakra, Shadcn entre outras.<br>🖥️ No back posso atua com .Net (Framework ou core) e Node (Express e Adonis)<br>📑 Tenho proficiência desenvolver, documentar e extrair relatório de aplicações e testes tanto de unidade quanto E2E com Jest, Cypress, Swagger, Storybook, Redoc, SonarQube, Azure Devops.</h5>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-six-chi-74.vercel.app/api?username=RenatoAlbuquerque&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-six-chi-74.vercel.app/api/top-langs?username=RenatoAlbuquerque&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4 align="left">🎓 Sou Graduado em Análise e Desenvolvimento de Sistema.<br>🛠️ Posso atuar como desenvolvedor Front-end, Back-end ou Fullstack Web.<br>👨‍💻 No front posso atuar com diversos frameworks como React, Next e Vite e diversas bibliotecas de estilização como MUI, Tailwind, Chakra, Shadcn entre outras.<br>🖥️ No back posso atua com .Net (Framework ou core) e Node (Express e Adonis)<br>📑 Tenho proficiência para desenvolver, documentar e extrair relatório de aplicações e testes tanto de unidade quanto E2E com Jest, Cypress, Swagger, Storybook, Redoc, SonarQube, Azure Devops.</h5>
 
 ###
 
